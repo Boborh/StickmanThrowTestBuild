@@ -1,14 +1,18 @@
-/Build/Builds.data.br
+/Build/*.data.br
   Content-Type: application/octet-stream
   Content-Encoding: br
+  Cache-Control: no-cache
 
-/Build/Builds.framework.js.br
-  Content-Type: application/javascript
-  Content-Encoding: br
-
-/Build/Builds.wasm.br
+/Build/*.wasm.br
   Content-Type: application/wasm
   Content-Encoding: br
+  Cache-Control: no-cache
 
-/Build/Builds.loader.js
+/Build/*.js.br
   Content-Type: application/javascript
+  Content-Encoding: br
+  Cache-Control: no-cache
+
+/Build/*.loader.js
+  Content-Type: application/javascript
+  Cache-Control: no-cache
