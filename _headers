@@ -1,14 +1,11 @@
-/Build/*.data.br
+/Build/Builds.data.br
   Content-Type: application/octet-stream
   Content-Encoding: br
-  Cache-Control: public, max-age=31536000, immutable
 
-/Build/*.wasm.br
-  Content-Type: application/wasm
-  Content-Encoding: br
-  Cache-Control: public, max-age=31536000, immutable
-
-/Build/*.js.br
+/Build/Builds.framework.js.br
   Content-Type: application/javascript
   Content-Encoding: br
-  Cache-Control: public, max-age=31536000, immutable
+
+/Build/Builds.wasm.br
+  Content-Type: application/wasm
+  Content-Encoding: br
