@@ -1,7 +1,0 @@
-/Build/*.unityweb
-  Content-Type: application/octet-stream
-  Content-Encoding: br
-
-/Build/*.js.br
-  Content-Type: application/javascript
-  Content-Encoding: br
