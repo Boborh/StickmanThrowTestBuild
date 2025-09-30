@@ -9,3 +9,6 @@
 /Build/Builds.wasm.br
   Content-Type: application/wasm
   Content-Encoding: br
+
+/Build/Builds.loader.js
+  Content-Type: application/javascript
